@@ -1,0 +1,44 @@
+_repo: The-second-adventures-of-Uncle-Wiggily-b-The-bunny-rabbit-gentleman-and-his-muskrat-lady-hous__71515
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Campbell, Lang
+    alias: Campbell, Lansing
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '44668'
+    url: http://www.gutenberg.org/2009/agents/44668
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2023-08-28'
+identifiers:
+  gutenberg: '71515'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433064219664&view=1up&seq=5&skin=2021
+pgterms:marc905: 20220522110351garis
+pgterms:marc906: '1925'
+pgterms:marc907: us
+production_note: Richard Tonsing, David Edwards, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNewark :$bCharles E. Graham & Co, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The second adventures of Uncle Wiggily : $b The bunny rabbit gentleman and
+  his muskrat lady housekeeper'
+url: http://www.gutenberg.org/ebooks/71515
